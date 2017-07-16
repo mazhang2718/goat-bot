@@ -1,7 +1,8 @@
 # goat-bot
 
-A dumb Slack bot to make bad goat puns.
+A dumb Slack bot to make bad goat puns. Why did I even make this???
 
+![](https://github.com/mazhang2718/goat-bot/blob/master/goatbot.png)
 
 To execute, first retrieve a Slack bot token, and set it to environment variables, as described here: https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
 
